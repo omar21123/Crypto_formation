@@ -9,7 +9,7 @@ Ce README global couvre toutes les parties du dossier `Crypto_formation/` : **ha
 
 1. 🔐 Introduction
 2. 🧂 Hashing & Password Cracking
-
+ 
    * Types de hash
    * Extraction d'un hash
    * Hashcat usage
